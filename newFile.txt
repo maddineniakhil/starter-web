@@ -1,0 +1,3 @@
+A new file that is not in Git repository is an untracked file. You cannot add and commit such files with single command.
+
+You can only add and commit, with single command, for files that are already in Git repository and are modified.
