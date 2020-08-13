@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Akhil Maddineni -- Student -- No twitter handle
 
 # THANKS
 
