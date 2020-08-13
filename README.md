@@ -11,5 +11,6 @@ Sample website with plenty of files for demos. The purpose of this repo is to te
 
 
 ## How to Contribute
+Please fork this repo and create pull requests.
 
 ### Copyright MAK 2.0
