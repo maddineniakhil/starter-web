@@ -12,3 +12,4 @@ Sample website with plenty of files for demos. The purpose of this repo is to te
 
 ## How to Contribute
 
+### Copyright MAK 2.0
